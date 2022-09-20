@@ -1,4 +1,4 @@
-package com.brayan.prutuyo.controller;
+/*package com.brayan.prutuyo.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -17,3 +17,4 @@ public class ControladorRest {
     }
 
 }
+*/
